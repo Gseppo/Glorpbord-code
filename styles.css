@@ -23,10 +23,7 @@ font-family: Tahoma;
 header {
   background-color: #444; 
   color: #fff;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  margin-bottom: 8px;
-  min-height: unset;
+  padding: 24px 0 24px 0;
   text-align: center;
   font-size: 2em;
   font-weight: bold;
