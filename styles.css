@@ -1,10 +1,8 @@
 ## CSS for Glorpbord
 
 h1 {
-  font-size: 72px;
-  background: -webkit-linear-gradient(#000000, #D3D3D3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white;
+  text-align: center;
 }
 h2 {
   color: white;
