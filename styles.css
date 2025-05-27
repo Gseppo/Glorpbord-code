@@ -3,11 +3,17 @@
 h1 {
   color: white;
   text-align: center;
+  font-family: Tahoma, Verdana, sans-serif;
 }
 h2 {
   color: white;
   text-align: center;
+  font-family: Tahoma, Verdana, sans-serif;
 }
 body {
   background-color: black;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+p {
+font-family: Tahoma, Verdana, sans-serif;
 }
